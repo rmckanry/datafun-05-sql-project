@@ -1,0 +1,10 @@
+model_ID, model_name, model_type, model_years, maker_id
+chry1, Pacifica, Van, 2018-present, Chrysler
+ford1, Mustang Mach-e, SUV, 2021-present, Ford
+ford2, Mustang, 2-Door, 1964-present, Ford
+chevy1, Nova, Sedan, 1962-1979, Chevy
+bmw1, i8 Roadster, 2-Door, 2018-2020, BMW
+toy1, Matrix, Crossover, 2003-2008, Toyota
+toy2, Tundra, Pickup, 1999-present, Toyota
+chry2, M300, Sedan, 2004-2023, Chrysler
+ford3, F-150, Pickup, 1975-Present, Ford

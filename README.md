@@ -7,3 +7,4 @@ Created venv and gitignore objects
 Added .vsode/ and .venv/ to gitignore file
 ```
 
+## Created SQL table creation and CSV files and needed folders
